@@ -1,0 +1,24 @@
+{
+  "name": "com.frameworksxd.eventsxd",
+  "version": "0.9.0",
+  "displayName": "Events XD",
+  "description": "Handles event listening and dispatching.\n\nAdd listener: EventManager.AddListener<Event>(OnEvent);\nRemove listener: EventManager.RemoveListener<Event>(OnEvent);\nBroadcast event: EventManager.Broadcast<Event>(Event);",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "documentationUrl": "https://github.com/zamixn/EventsXD",
+  "changelogUrl": "https://github.com/zamixn/EventsXD",
+  "licensesUrl": "https://creativecommons.org/licenses/by/4.0/legalcode",
+  "keywords": [
+    "Events"
+  ],
+  "author": {
+    "name": "\u017dygimantas Kadi\u0161a",
+    "email": "zygimantas.kadisa@gmail.com",
+    "url": "https://github.com/zamixn/EventsXD"
+  },
+  "type": "library"
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/zamixn/EventsXD.git"
+	}
+}
